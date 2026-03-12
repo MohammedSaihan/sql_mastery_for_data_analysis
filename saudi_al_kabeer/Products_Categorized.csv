@@ -1,0 +1,101 @@
+product_id,product_name,category,brand,cost_price,selling_price
+1,Samsung Galaxy S24 Ultra,Electronics & Computing,Samsung,3200,4799
+2,iPhone 15 Pro Max,Electronics & Computing,Apple,3800,5499
+3,Men's Cotton Thobe,Men's Fashion,Al Hamrani,120,249
+4,Premium Winter Shemagh,Men's Fashion,Givenchy,180,350
+5,Split AC 18000 BTU,Home Appliances,Gree,1800,2999
+6,Women's Embroidered Abaya,Women's Fashion,Bisque,150,399
+7,MacBook Air M3,Electronics & Computing,Apple,3500,5199
+8,White Cotton Ghutra,Men's Fashion,Givenchy,80,199
+9,65-Inch Smart TV,Electronics & Gadgets,LG,2200,3499
+10,Men's Luxury Bisht,Men's Fashion,Al Basel,500,1199
+11,10kg Automatic Washing Machine,Home Appliances,Beko,1100,1899
+12,Women's Evening Dress,Women's Fashion,Zara,250,599
+13,22 Cu Ft French Door Refrigerator,Home Appliances,Hitachi,2500,3899
+14,Men's Moroccan Jalabia,Men's Fashion,Al Rassasi,200,449
+15,AirPods Pro 2 Earbuds,Electronics & Gadgets,Apple,700,1099
+16,Women's Casual Outfit Set,Women's Fashion,H&M,130,299
+17,Robot Vacuum Cleaner,Home Appliances,Dyson,1500,2499
+18,Men's Formal Shoes,Men's Fashion,Clarks,280,549
+19,Galaxy Watch 6 Smartwatch,Smart Home & Gadgets,Samsung,800,1299
+20,Men's Winter Jacket,Men's Fashion,North Face,350,699
+21,iPad Air M2 Tablet,Electronics & Computing,Apple,2200,3299
+22,Men's Emirati Kandura,Men's Fashion,Al Rassasi,160,349
+23,Vertical Steam Iron,Home Appliances,Philips,350,599
+24,Women's Leather Handbag,Bags & Travel,Michael Kors,400,899
+25,JBL Bluetooth Headphones,Electronics & Gadgets,JBL,250,449
+26,Kids Cotton Thobe,Kids' Fashion,Al Hamrani,80,159
+27,Smart Security Camera,Electronics & Gadgets,Eufy,180,349
+28,Men's Luxury Sandals,Men's Fashion,Birkenstock,150,299
+29,Portable AC 12000 BTU,Home Appliances,Midea,1200,1999
+30,Long Evening Gown,Women's Fashion,Zara,600,1299
+31,Color Laser Printer,Electronics & Computing,HP,900,1499
+32,Women's Silk Shawl,Women's Fashion,Hermes,350,799
+33,Home Projector,Electronics & Gadgets,Epson,1600,2699
+34,Men's Cotton Trousers,Men's Fashion,Dockers,120,259
+35,Electric Water Heater,Home Appliances,Ariston,500,899
+36,Gold-Embroidered Black Abaya,Women's Fashion,Bisque,300,699
+37,27-Inch Computer Monitor,Electronics & Computing,Dell,800,1399
+38,Men's Formal Shirt,Men's Fashion,Ralph Lauren,200,449
+39,8-Liter Air Fryer,Home Appliances,Philips,400,699
+40,Women's Casual Skirt,Women's Fashion,Zara,90,199
+41,WiFi 6 Router,Electronics & Computing,TP-Link,200,399
+42,Men's Leather Jacket,Men's Fashion,Hugo Boss,500,1099
+43,14-Place Dishwasher,Home Appliances,Bosch,1400,2299
+44,Women's Cotton Hijab,Women's Fashion,Bisque,30,79
+45,Ceiling Fan with Remote,Home Appliances,Panasonic,250,449
+46,Men's Formal Suit,Men's Fashion,Pierre Cardin,700,1499
+47,Automatic Coffee Machine,Home Appliances,De'Longhi,1800,2999
+48,Women's Sports Shoes,Women's Fashion,Nike,200,399
+49,90cm Kitchen Hood,Home Appliances,Bosch,600,1099
+50,Premium White Cotton Ghutra,Men's Fashion,Givenchy,100,229
+51,60-Liter Electric Oven,Home Appliances,Black & Decker,350,649
+52,Women's Wool Coat,Women's Fashion,Mango,400,849
+53,Bluetooth Speaker,Electronics & Gadgets,Bose,450,799
+54,Men's Summer Linen Thobe,Men's Fashion,Al Basel,140,289
+55,Smart Body Scale,Health & Wellness,Xiaomi,80,159
+56,Men's Backpack,Bags & Travel,Samsonite,250,499
+57,Cordless Vacuum Cleaner,Home Appliances,Dyson,1200,1999
+58,Girls' Kids Dress,Kids' Fashion,Carter's,60,139
+59,Air Purifier,Home Appliances,Sharp,700,1199
+60,Premium Red Shemagh,Men's Fashion,Givenchy,200,399
+61,Professional Digital Camera,Electronics & Gadgets,Canon,3000,4599
+62,Men's Natural Leather Sandals,Men's Fashion,Clarks,180,369
+63,30-Liter Microwave,Home Appliances,Samsung,400,699
+64,Women's Colorful Abaya,Women's Fashion,Al Rassasi,180,399
+65,Fast Wireless Charger,Electronics & Gadgets,Anker,80,149
+66,Men's Cotton Pajamas,Men's Fashion,Calvin Klein,120,269
+67,Filtered Water Cooler,Home Appliances,Purecum,600,999
+68,Men's Sports Shoes,Men's Fashion,Adidas,250,499
+69,Smart Video Doorbell,Smart Home & Gadgets,Ring,300,549
+70,Men's Cotton T-Shirt,Men's Fashion,Lacoste,100,229
+71,Window AC 24000 BTU,Home Appliances,General,1600,2699
+72,Men's Premium Agal,Men's Fashion,Al Hamrani,40,99
+73,Wireless Mouse & Keyboard Set,Electronics & Computing,Logitech,150,299
+74,Women's Silk Blouse,Women's Fashion,Gucci,350,799
+75,Smart Fingerprint Door Lock,Smart Home & Gadgets,Yale,500,899
+76,Men's Sports Pants,Men's Fashion,Under Armour,110,229
+77,Multi-Function Blender,Home Appliances,Kenwood,300,549
+78,Wheeled Travel Luggage,Bags & Travel,American Tourister,200,449
+79,Professional Webcam,Electronics & Computing,Logitech,250,449
+80,Wool Winter Beanie,Men's Fashion,Burberry,300,649
+81,Digital Blood Pressure Monitor,Health & Wellness,Omron,120,229
+82,Women's Casual Daily Dress,Women's Fashion,H&M,70,159
+83,2TB External Hard Drive,Electronics & Computing,Seagate,200,369
+84,Men's Sunglasses,Men's Fashion,Ray-Ban,350,699
+85,Steam Iron Station,Home Appliances,Tefal,180,329
+86,Royal Premium Bisht,Men's Fashion,Al Basel,800,1799
+87,Wired In-Ear Headphones,Electronics & Gadgets,Sony,120,229
+88,Kids Sports Shoes,Kids' Fashion,Nike,100,199
+89,Smart Wall Clock,Smart Home & Gadgets,Amazon,150,299
+90,Men's Leather Gloves,Men's Fashion,Hugo Boss,130,279
+91,55-Inch Smart TV,Electronics & Gadgets,Samsung,1800,2899
+92,Women's Jeans,Women's Fashion,Levi's,140,299
+93,Portable Desert Cooler,Home Appliances,Symphony,400,749
+94,Women's Embroidered Moroccan Thobe,Women's Fashion,Al Rassasi,250,549
+95,Gaming Laptop,Electronics & Computing,Lenovo,3200,4999
+96,Men's Natural Leather Belt,Men's Fashion,Mont Blanc,300,649
+97,Small Thermal Printer,Electronics & Computing,Epson,200,379
+98,Kids Cotton Outfit Set,Kids' Fashion,Carter's,50,119
+99,Smart GPS Tracker,Electronics & Computing,Apple,120,229
+100,Men's Luxury Winter Coat,Men's Fashion,North Face,450,899
