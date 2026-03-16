@@ -98,7 +98,7 @@ The dashboard answers real business questions:
 
 ### Dashboard Preview
 
-![Dashboard](C:\Users\skill\Play-code\sql_mastery_for_data_analysis\saudi_al_kabeer\PowerBi-dashboard\screen-shots\total_order.png)
+![Dashboard](C:/Users/skill/Play-code/sql_mastery_for_data_analysis/saudi_al_kabeer/PowerBi-dashboard/screen-shots/total_order.png)
 
 ---
 
